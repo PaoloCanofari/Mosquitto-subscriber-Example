@@ -5,11 +5,11 @@ This code aims to help you with implementation of MQTT protocol in your C++ proj
 
 ### Compatibility
 
-This code works has been tested only on Linux OS. Anyway, it should work even on FreeBSD, Windows and Mac OS.
+This code works has been tested only on Linux. Anyway, it should work even on FreeBSD, Windows and Mac OS.
 
 ### Requirements
 
-This library requires [libmosquitto](https://mosquitto.org/man/libmosquitto-3.html) installed on your system.
+This software requires [libmosquitto](https://mosquitto.org/man/libmosquitto-3.html) installed on your system.
 
 ##### Ubuntu Installation:
 
