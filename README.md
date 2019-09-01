@@ -9,7 +9,8 @@ This code works has been tested only on Linux OS. Anyway, it should work even on
 
 ### Requirements
 
-This library requires libmosquitto installed on your system.
+This library requires [libmosquitto](https://mosquitto.org/man/libmosquitto-3.html) installed on your system.
+
 ##### Ubuntu Installation:
 
 `$ sudo apt-get install libmosquitto1 libmosquitto-dev libmosquittopp1 libmosquittopp-dev`
